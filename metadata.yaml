@@ -1,0 +1,30 @@
+_repo: Love-Stories_15473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Title; Contents; Twenty-Two; Jane; In the Pavilion; God's Fool; The Miracle;
+  ""Are We Downhearted? No!""; The Game
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories, American'
+tableOfContents: Twenty-two -- Jane -- In the pavilion -- God's fool -- The miracle
+  -- "Are we downhearted? No!" -- The game.
+title: Love Stories
+url: http://www.gutenberg.org/ebooks/15473
